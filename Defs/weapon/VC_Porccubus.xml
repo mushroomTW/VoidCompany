@@ -47,7 +47,8 @@
   <ThingDef ParentName="BaseHumanMakeableGun">
     <defName>VC_Gun_Porccubus</defName>
     <label>porccubus</label>
-    <description>一把由 Void Company 改裝的實驗散彈槍，命中有血肉的目標時會短暫讓其失去行動能力。</description>
+    <!--<description>一把由 Void Company 改裝的實驗散彈槍，命中有血肉的目標時會短暫讓其失去行動能力。</description>-->
+    <description>An experimental shotgun modified by the Void Company that briefly incapacitates a flesh-and-blood target when hit.</description>
     <thingClass>VoidCompany.VC_Gun_Porccubus</thingClass>
     <!-- 材質路徑 -->
     <graphicData>
