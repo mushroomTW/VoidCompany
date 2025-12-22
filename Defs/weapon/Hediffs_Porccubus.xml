@@ -9,6 +9,7 @@
     <hediffClass>VoidCompany.Hediff_DelayedExplosiveDeath</hediffClass>
     <defaultLabelColor>(0.8, 0, 0)</defaultLabelColor>
     <isBad>true</isBad>
+    
     <stages>
       <li>
         <becomeVisible>true</becomeVisible>
