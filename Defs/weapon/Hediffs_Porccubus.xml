@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HediffDef>
+    <defName>VC_Hediff_PorccubusDelayedDeath</defName>
+    <label>porccubus納米炸彈</label>
+    <description>Unstable nanobombs have been implanted. The bomb has a 50% chance of detonating after 5 seconds and destroying the head.</description>
+    <!--<description>已被植入不穩定的納米炸彈。炸彈有50%機率在5秒後引爆並摧毀頭部。</description>-->
+    <hediffClass>VoidCompany.Hediff_DelayedExplosiveDeath</hediffClass>
+    <defaultLabelColor>(0.8, 0, 0)</defaultLabelColor>
+    <isBad>true</isBad>
+
+    <stages>
+      <li>
+        <becomeVisible>true</becomeVisible>
+      </li>
+    </stages>
+
+    <comps>
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>
+          <min>300</min>
+          <max>300</max>
+        </disappearsAfterTicks>
+      </li>
+    </comps>
+  </HediffDef>
+
+</Defs>

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\hediff_delayedexplosivedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:hediff_delayedexplosivedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\compchangeablemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:compchangeablemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\vc_gun_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:vc_gun_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\projectile_vc_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:projectile_vc_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\projectile_vc_stunmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:projectile_vc_stunmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VoidCompany||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VC_Gun_Porccubus.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\VC_Gun_Porccubus.cs",
+              "RelativeDocumentMoniker": "VC_Gun_Porccubus.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\VC_Gun_Porccubus.cs",
+              "RelativeToolTip": "VC_Gun_Porccubus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:00:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projectile_VC_Porccubus.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_Porccubus.cs",
+              "RelativeDocumentMoniker": "Projectile_VC_Porccubus.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_Porccubus.cs",
+              "RelativeToolTip": "Projectile_VC_Porccubus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:43:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompChangeableMode.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\CompChangeableMode.cs",
+              "RelativeDocumentMoniker": "CompChangeableMode.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\CompChangeableMode.cs",
+              "RelativeToolTip": "CompChangeableMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:07:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hediff_DelayedExplosiveDeath.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Hediff_DelayedExplosiveDeath.cs",
+              "RelativeDocumentMoniker": "Hediff_DelayedExplosiveDeath.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Hediff_DelayedExplosiveDeath.cs",
+              "RelativeToolTip": "Hediff_DelayedExplosiveDeath.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:24:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile_VC_StunMarker.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_StunMarker.cs",
+              "RelativeDocumentMoniker": "Projectile_VC_StunMarker.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_StunMarker.cs",
+              "RelativeToolTip": "Projectile_VC_StunMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:29:14.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoidCompany",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\VoidCompany.csproj",
+              "RelativeDocumentMoniker": "VoidCompany.csproj",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\VoidCompany.csproj",
+              "RelativeToolTip": "VoidCompany.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-30T15:44:44.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

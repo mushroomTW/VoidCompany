@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Porccubus 專用子彈 -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>VC_Bullet_Porccubus</defName>
+    <label>porccubus blast</label>
+
+    <thingClass>VoidCompany.Projectile_VC_Porccubus</thingClass>
+
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <projectile>
+      <!-- 傷害型態、數值 -->
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>18</damageAmountBase>
+      <stoppingPower>1.5</stoppingPower>
+      <armorPenetrationBase>0.6</armorPenetrationBase>
+      <speed>55</speed>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseBullet">
+    <defName>VC_Bullet_Porccubus_Explosive</defName>
+    <label>porccubus納米彈</label>
+
+    <thingClass>VoidCompany.Projectile_VC_StunMarker</thingClass>
+
+    <graphicData>
+      <texPath>Bullet/PorccubusBullet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>5</damageAmountBase>
+      <stoppingPower>2.0</stoppingPower>
+      <armorPenetrationBase>0.8</armorPenetrationBase>
+      <speed>60</speed>
+    </projectile>
+  </ThingDef>
+
+
+  <!-- 槍本體 -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>VC_Gun_Porccubus</defName>
+    <label>porccubus</label>
+    <description>一把由 Void Company 改裝的實驗散彈槍，命中有血肉的目標時會短暫讓其失去行動能力。</description>
+    <thingClass>VoidCompany.VC_Gun_Porccubus</thingClass>
+    <!-- 材質路徑 -->
+    <graphicData>
+      <texPath>Weapons/Porccubus</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.2, 1.2)</drawSize>
+    </graphicData>
+
+
+    <!-- 顯示在武器圖示上的縮放 -->
+    <uiIconScale>1.0</uiIconScale>
+    <uiIconAngle>0</uiIconAngle>
+    <equippedAngleOffset>45</equippedAngleOffset>
+
+    <!-- 手持時的傾斜角度 -->
+
+    <!-- 基本數值 -->
+    <statBases>
+      <WorkToMake>12000</WorkToMake>
+      <Mass>3.0</Mass>
+      <AccuracyTouch>0.9</AccuracyTouch>
+      <AccuracyShort>0.8</AccuracyShort>
+      <AccuracyMedium>0.7</AccuracyMedium>
+      <AccuracyLong>0.45</AccuracyLong>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+
+    <!-- 製作成本：先用原版散彈槍差不多的材料 -->
+    <costList>
+      <Steel>60</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+
+    <weaponTags>
+      <li>Gun</li>
+      <li>Shotgun</li>
+    </weaponTags>
+
+    <!-- 兩種射擊模式 -->
+    <verbs>
+      <li>
+        <label>Porccubus Blast</label>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>VC_Bullet_Porccubus</defaultProjectile>
+        <warmupTime>0.7</warmupTime>
+        <range>20</range>
+        <burstShotCount>3</burstShotCount>
+        <soundCast>Shot_Shotgun</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+      </li>
+
+      <li>
+        <label>Nano-Explosive Shot</label>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>VC_Bullet_Porccubus_Explosive</defaultProjectile>
+        <warmupTime>1.5</warmupTime>
+        <range>35</range>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>Shot_ChargeRifle</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+      </li>
+    </verbs>
+
+
+  </ThingDef>
+
+
+
+
+</Defs>

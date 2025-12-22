@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <!-- 唯一的內部識別 ID：建議用「你的暱稱.模組名」 -->
+  <packageId>owob.VoidCompany</packageId>
+
+  <!-- 遊戲內顯示名稱 -->
+  <name>Void Company</name>
+
+  <!-- 作者名稱（隨便填） -->
+  <author>owob</author>
+
+  <!-- 明確標示支援 1.6（官方 1.6 教學也是用這種寫法） -->
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+
+  <!-- Mod 描述（可之後再改） -->
+  <description>
+    VoidCompany for test now.
+  </description>
+
+</ModMetaData>
