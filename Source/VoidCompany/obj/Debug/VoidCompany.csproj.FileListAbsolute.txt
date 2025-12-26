@@ -81,3 +81,9 @@ D:\SteamLibrary\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\ob
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\obj\Debug\VoidCompany.pdb
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\VoidCompany\Assemblies\VoidCompany.dll
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\VoidCompany\Assemblies\VoidCompany.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Assemblies\VoidCompany.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Assemblies\VoidCompany.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\obj\Debug\VoidCompany.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\obj\Debug\VoidCompany.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\obj\Debug\VoidCompany.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VoidCompany\Source\VoidCompany\obj\Debug\VoidCompany.pdb

@@ -33,6 +33,7 @@
   <ItemGroup>
     <Compile Include="CompChangeableMode.cs" />
     <Compile Include="Hediff_DelayedExplosiveDeath.cs" />
+    <Compile Include="ListAbility.cs" />
     <Compile Include="Projectile_VC_Porccubus.cs" />
     <Compile Include="Projectile_VC_StunMarker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

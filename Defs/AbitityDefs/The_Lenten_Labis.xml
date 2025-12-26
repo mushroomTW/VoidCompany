@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <AbilityDef ParentName="RoleAuraBuffBase">
+        <defName>The_Lenten_Labis</defName>
+        <label>The Lenten Labis</label>
+        <description>Add buff for self.</description>
+        <iconPath>UI/UI_The_Lenten_Labis</iconPath>
+        <aiCanUse>true</aiCanUse>
+        <ai_IsIncendiary>true</ai_IsIncendiary>
+        <statBases>
+            <Ability_Duration>126</Ability_Duration>
+            <Ability_EffectRadius>0</Ability_EffectRadius>
+        </statBases>
+        <cooldownTicksRange>120000</cooldownTicksRange>
+        <verbProperties>
+            <verbClass>Verb_CastAbility</verbClass>
+            <range>5</range>
+        </verbProperties>
+        <comps>
+            <li Class="CompProperties_AbilityGiveHediff">
+                <compClass>CompAbilityEffect_GiveHediff</compClass>
+                <hediffDef>Purgatory_hediff</hediffDef>
+                <onlyApplyToSelf>true</onlyApplyToSelf>
+                <replaceExisting>true</replaceExisting>
+            </li>
+
+            <li Class="CompProperties_AbilityGiveMentalState">
+                <compClass>CompAbilityEffect_GiveMentalState</compClass>
+                <soundMale>BerserkTrance_Resolve_Male</soundMale>
+                <soundFemale>BerserkTrance_Resolve_Female</soundFemale>
+            </li>
+
+            <li Class="CompProperties_AbilityExplosion">
+                <damageDef>Flame</damageDef>
+                <soundExplode>AWA_Sound_fire_out</soundExplode>
+                <damageAmount>0</damageAmount>
+                <explosionRadius>5</explosionRadius>
+            </li>
+        </comps>
+    </AbilityDef>
+
+</Defs>

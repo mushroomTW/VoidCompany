@@ -69,5 +69,12 @@
             </skillRequirements>
             <displayPriority>450</displayPriority>
         </recipeMaker>
+        <comps>
+            <li Class="VoidCompany.CompProperties_ListAbility">
+                <AbilitieDefs>
+                    <li>The_Lenten_Labis</li>
+                </AbilitieDefs>
+            </li>
+        </comps>
     </ThingDef>
 </Defs>
