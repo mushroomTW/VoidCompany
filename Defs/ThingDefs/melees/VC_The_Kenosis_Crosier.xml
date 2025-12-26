@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+        <defName>The_Kenosis_Crosier</defName>
+        <label>The "Kenosis" Crosier</label>
+        <description>Take and eat; this is my body, given for you... if your god-forsaken souls can still taste a shred of satisfaction from this flesh.</description>
+        <graphicData>
+            <texPath>Weapons/The_Kenosis_Crosier</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>1.2</drawSize>
+        </graphicData>
+        <equippedAngleOffset>-45</equippedAngleOffset>
+        <techLevel>Neolithic</techLevel>
+        <weaponTags>
+            <li>Melee</li>
+        </weaponTags>
+        <!--<costStuffCount>50</costStuffCount>-->
+        <costList>
+            <Steel>50</Steel>
+        </costList>
+        <statBases>
+            <WorkToMake>5000</WorkToMake>
+            <Mass>1.1</Mass>
+        </statBases>
+        <!--<stuffCategories>
+            <li>Metallic</li>
+        </stuffCategories>-->
+        <tools>
+            <li>
+                <label>handle</label>
+                <capacities>
+                    <li>Poke</li>
+                </capacities>
+                <power>15</power>
+                <cooldownTime>1.6</cooldownTime>
+                <extraMeleeDamages>
+                    <li>
+                        <def>EMP</def>
+                        <amount>50</amount>
+                        <chance>1.0</chance>
+                    </li>
+                </extraMeleeDamages>
+            </li>
+            <li>
+                <label>head</label>
+                <capacities>
+                    <li>Blunt</li>
+                    <li>Bite</li>
+                </capacities>
+                <power>31</power>
+                <cooldownTime>2.2</cooldownTime>
+                <extraMeleeDamages>
+                    <li>
+                        <def>EMP</def>
+                        <amount>50</amount>
+                        <chance>1.0</chance>
+                    </li>
+                </extraMeleeDamages>
+            </li>
+        </tools>
+        <recipeMaker>
+            <researchPrerequisite>Smithing</researchPrerequisite>
+            <recipeUsers>
+                <li>FueledSmithy</li>
+                <li>ElectricSmithy</li>
+            </recipeUsers>
+            <skillRequirements>
+                <Crafting>3</Crafting>
+            </skillRequirements>
+            <displayPriority>450</displayPriority>
+        </recipeMaker>
+    </ThingDef>
+</Defs>

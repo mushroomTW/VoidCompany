@@ -1,0 +1,14 @@
+{
+  "TextureModID": "owob.voidcompany",
+  "ItemDefName": "The_Kenosis_Crosier_of_Great_Lent",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": -0.0396549627,
+  "Rotation": -45.0,
+  "ScaleX": 1.2,
+  "ScaleY": 1.2,
+  "FlipX": true,
+  "BladeStart": -0.481034368,
+  "BladeEnd": 0.5310343,
+  "MeleeWeaponType": 7
+}
