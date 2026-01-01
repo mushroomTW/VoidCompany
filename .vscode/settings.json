@@ -1,4 +1,4 @@
 {
     "dotnet.preferCSharpExtension": true,
-    "commentTranslate.targetLanguage": "zh-TW"
+    "commentTranslate.targetLanguage": "zh-CN"
 }

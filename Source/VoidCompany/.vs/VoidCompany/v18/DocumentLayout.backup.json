@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\hediffcomp_hangrydiff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:hediffcomp_hangrydiff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\compchangeablemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:compchangeablemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\projectile_vc_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:projectile_vc_porccubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\listability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:listability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\voidcompany\\source\\voidcompany\\hediff_delayedexplosivedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A8E8E7-AA12-415E-BEFB-0DA04CC724E5}|VoidCompany.csproj|solutionrelative:hediff_delayedexplosivedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HediffComp_HangryDiff.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\HediffComp_HangryDiff.cs",
+              "RelativeDocumentMoniker": "HediffComp_HangryDiff.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\HediffComp_HangryDiff.cs*",
+              "RelativeToolTip": "HediffComp_HangryDiff.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:13:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompChangeableMode.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\CompChangeableMode.cs",
+              "RelativeDocumentMoniker": "CompChangeableMode.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\CompChangeableMode.cs",
+              "RelativeToolTip": "CompChangeableMode.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:07:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hediff_DelayedExplosiveDeath.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Hediff_DelayedExplosiveDeath.cs",
+              "RelativeDocumentMoniker": "Hediff_DelayedExplosiveDeath.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Hediff_DelayedExplosiveDeath.cs",
+              "RelativeToolTip": "Hediff_DelayedExplosiveDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:06:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectile_VC_Porccubus.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_Porccubus.cs",
+              "RelativeDocumentMoniker": "Projectile_VC_Porccubus.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\Projectile_VC_Porccubus.cs",
+              "RelativeToolTip": "Projectile_VC_Porccubus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:06:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListAbility.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\ListAbility.cs",
               "RelativeDocumentMoniker": "ListAbility.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VoidCompany\\Source\\VoidCompany\\ListAbility.cs",
               "RelativeToolTip": "ListAbility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T14:56:07.094Z",
               "EditorCaption": ""

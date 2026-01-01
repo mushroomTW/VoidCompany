@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
     <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
-        <defName>The_Kenosis_Crosier</defName>
+        <defName>VC_The_Kenosis_Crosier</defName>
         <label>The "Kenosis" Crosier</label>
         <description>Take and eat; this is my body, given for you... if your god-forsaken souls can still taste a shred of satisfaction from this flesh.</description>
         <graphicData>
@@ -71,9 +71,9 @@
         </recipeMaker>
         <comps>
             <li Class="VoidCompany.CompProperties_ListAbility">
-                <AbilitieDefs>
-                    <li>The_Lenten_Labis</li>
-                </AbilitieDefs>
+                <AbilityDefs>
+                    <li>VC_The_Lenten_Labis</li>
+                </AbilityDefs>
             </li>
         </comps>
     </ThingDef>

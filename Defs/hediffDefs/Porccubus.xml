@@ -3,7 +3,8 @@
 
   <HediffDef>
     <defName>VC_Hediff_PorccubusDelayedDeath</defName>
-    <label>porccubus納米炸彈</label>
+    <!--<label>porccubus納米炸彈</label>-->
+    <label>nano bomb porccubus</label>
     <!--<description>已被植入不穩定的納米炸彈。炸彈有50%機率在5秒後引爆並摧毀頭部。</description>-->
     <description>Unstable nanobombs have been implanted. The bomb has a 50% chance of detonating after 5 seconds and destroying the head.</description>
     <hediffClass>VoidCompany.Hediff_DelayedExplosiveDeath</hediffClass>
