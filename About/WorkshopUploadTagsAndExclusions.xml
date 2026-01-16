@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkshopUploadTagsAndExclusions>
+  <!-- Optional: tags shown on Workshop; keep minimal/accurate. Uncomment to use.
+  <tags>
+    <li>1.6</li>
+  </tags>
+  -->
+  <exclusions>
+    <!-- Exclude source code and common dev artifacts from upload -->
+    <li>Source</li>
+    <li>.gitignore</li>
+  </exclusions>
+</WorkshopUploadTagsAndExclusions>
